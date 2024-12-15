@@ -1,8 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)]
 <h1 align="center">Hi 👋, I'm Prachi Verma</h1>
 <h3 align="center">Exploring Web Development: Learning the Tools, Building the Future.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
-- 📫 How to reach me **vprachi748@gmail.com**
+ <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
+- 📫 How to reach me **vprachi748@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
